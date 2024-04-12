@@ -1,0 +1,19 @@
+ : root {
+aqui pode declarar variaveis
+
+exemplo:  --cor:  black
+          -- cor2:  yellow
+}
+
+# chama div
+. chama class
+
+@import url - para importar fontes
+
+*{
+seletor global, vai valer para todos elementos}
+
+paragrafo =  text-indent 3ch
+
+
+começando modulo 3 : git e github

@@ -1,0 +1,14 @@
+:root{
+    --cor: green
+}
+
+#p{
+    background-color: aqua;
+}
+
+#h1{
+    background-color: var(--cor);
+}
+body{
+    background-color: aquamarine;
+}

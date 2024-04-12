@@ -1,0 +1,9 @@
+:root{
+
+    --cor: yellow;
+    --cor2: green;
+
+}
+p{
+    background-color: var(--cor2);
+}
